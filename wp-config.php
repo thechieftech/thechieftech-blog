@@ -75,6 +75,9 @@ $table_prefix  = 'wp_';
  */
 define('WP_DEBUG', false);
 
+define('WP_HOME','https://thechieftech.com');
+define('WP_SITEURL','https://thechieftech.com');
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
